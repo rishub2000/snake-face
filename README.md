@@ -5,8 +5,6 @@ Keyboards are for losers -- play snake by moving your head!
 Play live: <a href="https://rishub2000.github.io/snake-face/">https://rishub2000.github.io/snake-face/</a>
 
 
-<img src="demo.gif" alt="demo" style="width: 640px;"/>
-
 ## How does this work?
 
 I use the tensorflow.js model <a href="https://github.com/tensorflow/tfjs-models/tree/master/facemesh">MediaPipe Facemesh</a> to estimate the head pose in real time using the device's camera. When the game starts, the direction in which the head is pointing is estimated as a reference point. Subsequent estimates during game play are compared to this to decide which direction to steer the snake.
