@@ -2,7 +2,7 @@
 
 Keyboards are for losers -- play snake by moving your head! 
 
-Play live: <a href="https://paruby.github.io/snake-face/">https://paruby.github.io/snake-face/</a>
+Play live: <a href="https://rishub2000.github.io/snake-face/">https://rishub2000.github.io/snake-face/</a>
 
 
 <img src="demo.gif" alt="demo" style="width: 640px;"/>
